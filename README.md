@@ -1,11 +1,11 @@
 # Five Buttons
 
-Übungsprojekt fürs Programmierpraktikum 2016
+Übungsprojekt fürs Programmierpraktikum 2016 Some other text
 
 ## Import
 
 Es wird angenommen, dass das Projekt in einen Ordner Namens `five-buttons` geclont wurde. Der Name ist entsprechend zu ersetzen.
-    
+
 ### IntelliJ
 
 `File -> New -> Project from existing sources` auswählen und dort den Ordner `five-buttons`, der geclont wurde importieren.
