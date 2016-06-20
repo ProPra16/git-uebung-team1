@@ -1,6 +1,6 @@
 # Five Buttons
 
-Übungsprojekt fürs Programmierpraktikum 2016
+Übungsprojekt fürs Programmierpraktikum 2016 Some Text
 
 ## Import
 
